@@ -1,1 +1,1 @@
-public test
+Netlify test
